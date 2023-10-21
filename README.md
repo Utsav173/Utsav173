@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utsav173
-- 👀 Web development
-- 🌱 IT student
+- 💻 Web development
+- 🌱 IT
 
 <!---
 Utsav173/Utsav173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
