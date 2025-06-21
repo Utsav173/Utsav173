@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 ### 🚀 **Passionate Developer from Gujarat, India** 🇮🇳
-**3+ Years of Professional Excellence at Zignuts Technolab**
+**3+ Years of Experience in Web Development**
 
 <div>
   <a href="https://utsav-khatri.vercel.app/" target="_blank">
@@ -32,8 +32,7 @@ const utsav: Developer = {
   name: "Utsav Khatri",
   role: "Full Stack Developer & AI Enthusiast",
   location: "Gujarat, India 🇮🇳",
-  experience: "3+ years",
-  company: "Zignuts Technolab",
+  experience: "3+ years in web development",
   passion: ["Clean Architecture", "AI Integration", "Performance Optimization"],
   currentFocus: "Building intelligent web applications with cutting-edge tech",
   philosophy: "AI should enhance human creativity, not replace it",
