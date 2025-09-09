@@ -10,7 +10,7 @@
 **3+ Years of Experience in Web Development**
 
 <div>
-  <a href="https://utsav-khatri.vercel.app/" target="_blank">
+  <a href="https://khatriutsav.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/utsav-khatri-/" target="_blank">
@@ -149,7 +149,7 @@ const utsav: Developer = {
 *Always excited to collaborate on innovative projects, discuss cutting-edge tech, or simply connect with fellow code enthusiasts!*
 
 <div>
-  <a href="https://utsav-khatri.vercel.app/" target="_blank">
+  <a href="https://khatriutsav.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/utsav-khatri-/" target="_blank">
