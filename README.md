@@ -6,12 +6,16 @@
   </picture>
 </p>
 
-# Utsav Khatri
+<p align="center">
+  <a href="https://khatriutsav.com/"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/utsav-khatri-/"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="mailto:khatriutsav40@gmail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/Utsav173?tab=repositories"><b>🚀 Repositories</b></a>
+</p>
 
-**Full Stack Engineer & Creative Developer** · Gujarat, India  
-Building high-performance web systems, interactive 3D, and AI interfaces.
-
-[Portfolio](https://khatriutsav.com/) • [LinkedIn](https://www.linkedin.com/in/utsav-khatri-/) • [Email](mailto:khatriutsav40@gmail.com)
+<p align="center">
+  <sub>Full Stack Engineer & Creative Developer • Gujarat, India • Shipping scalable web backends, interactive 3D, and AI applications</sub>
+</p>
 
 ---
 
