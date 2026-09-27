@@ -1,16 +1,17 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="Utsav Khatri" src="./assets/header-dark.svg" width="100%">
+    <source media="(max-width: 768px)" srcset="./assets/banner-mobile.jpg">
+    <source media="(min-width: 769px)" srcset="./assets/banner-desktop.jpg">
+    <img alt="Utsav Khatri — Full Stack & Creative Technologist" src="./assets/banner-desktop.jpg" width="100%">
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://khatriutsav.com/"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/utsav-khatri-/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="mailto:khatriutsav40@gmail.com"><b>Email</b></a>
-</p>
+# Utsav Khatri
+
+**Full Stack Engineer & Creative Developer** · Gujarat, India  
+Building high-performance web systems, interactive 3D, and AI interfaces.
+
+[Portfolio](https://khatriutsav.com/) • [LinkedIn](https://www.linkedin.com/in/utsav-khatri-/) • [Email](mailto:khatriutsav40@gmail.com)
 
 ---
 
